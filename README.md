@@ -23,8 +23,6 @@ L'applicazione **Italian Food** permette agli utenti di esplorare una vasta gamm
 
 # Requisiti di Sistema
 
-- Node.js versione 14+
-- MongoDB 4.4+
 - Browser compatibile (Chrome, Firefox, Safari)
 
 # Installazione
